@@ -1,2 +1,1 @@
-This algorithm helps to "sieve" out the prime numbers from a given range (starting from 1) to any 'n'. The overall time complexity
-of the algorithm is O(nlog(log(n))).
+
